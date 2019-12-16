@@ -1,23 +1,27 @@
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Chat Application
+  subtitle: Real-time chat application developed using ReactJs, Node.js and Socket.IO
+  link: #
 
-- title: Basic Music
-  subtitle: Basic Music Player That lets you to play music
-  link: https://github.com/Mr404Found/Basic-Music-Player
+- title: Expert System
+  subtitle: Expert System which can help freshmen students to choose major(C++)
+  link: https://github.com/patni-harsh5/ExpertSystem
 
-- title: Age Calculator
-  subtitle: Get Your Age
-  link: https://github.com/Mr404Found/AgeCalculator
+- title: Fitme
+  subtitle: Calculates body measurements data like heart-rate, number of steps, blood-pressure, etc.
+  link: https://github.com/patni-harsh5/Fitbit-heart-rate-data-collector
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: PathFinder-Visual for Djkstra's Algorithm
+  subtitle: Find's the shortest path between origin and the end.
+  link: https://github.com/patni-harsh5/React-pathvisual
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Quiz game using MERN Stack
+  subtitle: A general knowledge quiz
+  link: https://dazzling-cray-213862.netlify.com/
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Recipe Search App 
+  subtitle: Developed using MERN Stack
+  link: https://pensive-goldwasser-3ef862.netlify.com/
+
+- title: E-commerce shopping cart
+  subtitle: Developed using AngularJS and Firebase 
+  link: https://youthful-brattain-8c15c6.netlify.com/

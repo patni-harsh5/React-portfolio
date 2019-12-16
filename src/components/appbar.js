@@ -9,7 +9,13 @@ export default function Appbar() {
           <Intent to="/">Home</Intent>
         </li>
         <li className="nav-item mx-4">
+          <Intent to="/education">Education</Intent>
+        </li>
+        <li className="nav-item mx-4">
           <Intent to="/projects">Projects</Intent>
+        </li>
+        <li className="nav-item mx-4">
+          <Intent to="/workexp">Work Experience</Intent>
         </li>
       </ul>
     </div>
